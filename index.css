@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(144, 175, 144);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.images{
+    margin-top: 10%;
+    margin-left: 30%;
+}
+img{
+    width: 11%;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    box-shadow: yellow;
+}
+#score,#win,#mc,#cc,#choices{
+    margin-top: 30px;
+    margin-left: 42%;
+}
+#stop{
+
+    margin-top: 20px;
+    margin-left: 41%;
+}
+#choices{
+    margin-left: 38%;
+}
+#win{
+    margin-left: 43%;
+}
